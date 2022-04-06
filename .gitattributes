@@ -1,2 +1,8 @@
 *.php linguist-detectable=true
+*.JavaScript linguist-detectable=false
+*.CSS linguist-detectable=false
+*.SCSS linguist-detectable=false
+*.Less linguist-detectable=false
+*.HTML linguist-detectable=false
+*.Python linguist-detectable=false
 
